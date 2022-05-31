@@ -1,12 +1,12 @@
 .showcase {
- margin: 5% 10% 2% 0;
- display: flex;
- flex-direction: column;
- gap: 30px;
- padding: 50px;
- color: #172b4d;
- font-weight: 700;
- font-size: 1.2rem;
+  margin: 5% 10% 2% 0;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  padding: 50px;
+  color: #172b4d;
+  font-weight: 700;
+  font-size: 1.2rem;
 }
 
 .para {
@@ -52,6 +52,7 @@
   .showcase {
     margin: auto;
   }
+
   .welcome {
     margin: auto;
   }

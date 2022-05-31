@@ -49,14 +49,13 @@
   border: 1px solid #333;
 }
 
-
-
 @media only screen and (max-width: 900px) {
   .main-div {
     flex-direction: column;
     margin: 10% 5% 2% 10%;
     text-align: center;
   }
+
   .calc-grid {
     display: grid;
     grid-template-columns: repeat(4, 8rem);
@@ -75,4 +74,3 @@
     padding-left: 0;
   }
 }
-
