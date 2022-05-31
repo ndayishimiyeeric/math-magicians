@@ -1,0 +1,16 @@
+.showcase {
+ margin: 5% 10% 2% 0;
+ display: flex;
+ flex-direction: column;
+ gap: 30px;
+ padding: 50px;
+ color: #172b4d;
+ font-weight: 700;
+ font-size: 1.2rem;
+}
+
+.para {
+  color: #344563;
+  font-weight: 400;
+  font-size: 1rem;
+}
