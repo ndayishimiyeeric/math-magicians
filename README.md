@@ -33,7 +33,7 @@ npm run build
 
 ## Demo App
 
-**live demo** [To be Published.](https://nderic-math-magicians.netlify.app/)
+**live demo** [Math Magician App](https://nderic-math-magicians.netlify.app/)
 
 ## Authors
 
