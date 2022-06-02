@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Links Calculator Link 1`] = `
+<a
+  href="/"
+  onClick={[Function]}
+>
+  Calculator
+</a>
+`;
+
+exports[`render Links Home Link 1`] = `
+<a
+  href="/"
+  onClick={[Function]}
+>
+  Home
+</a>
+`;
+
+exports[`render Links Quote Link 1`] = `
+<a
+  href="/quote"
+  onClick={[Function]}
+>
+  Quote
+</a>
+`;
+
+exports[`renders correctly 1`] = `
+<a
+  href="/"
+  onClick={[Function]}
+>
+  Home
+</a>
+`;
